@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 # ~/.macos — https://mths.be/macos
+# defaults read NSGlobalDomain
+# https://mjtsai.com/blog/2019/08/15/global-mac-defaults-and-hidden-preferences/
 
 # Close any open System Preferences panes, to prevent them from overriding
 # settings we’re about to change
